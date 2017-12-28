@@ -11,6 +11,8 @@ with [Sikuli](http://www.sikuli.org/).
 
 ## Scripts
 
+*[ pixel_traffic_autostart](pixel_traffic_autostart.sikuli/pixel_traffic_autostart.html) - 1000 runs
+
 ## Technical notes
 
 I did this:
