@@ -1,7 +1,7 @@
 # pixel_traffic_sikuli
 
 Automate starting over in
-[Pixel Traffic: Circle Rush]http://store.steampowered.com/app/696460/Pixel_Traffic_Circle_Rush/()
+[Pixel Traffic: Circle Rush](http://store.steampowered.com/app/696460/Pixel_Traffic_Circle_Rush/)
 with [Sikuli](http://www.sikuli.org/).
 
 ## Setup
