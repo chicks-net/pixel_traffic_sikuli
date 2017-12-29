@@ -4,7 +4,7 @@ from time import sleep
 
 switchApp("ptcr") # MacOS
 
-maxruns = 1000
+maxruns = 1200
 runs = 0
 
 while runs < maxruns:
