@@ -18,7 +18,7 @@ with [Sikuli](http://www.sikuli.org/).
 
 ## Scripts
 
-*[pixel_traffic_autostart](https://rawgit.com/chicks-net/pixel_traffic_sikuli/master/pixel_traffic_autostart.sikuli/pixel_traffic_autostart.html) - 1200 runs so you can get enough credits (~4000) to buy all of the cars.
+* [pixel_traffic_autostart](https://rawgit.com/chicks-net/pixel_traffic_sikuli/master/pixel_traffic_autostart.sikuli/pixel_traffic_autostart.html) - 1200 runs so you can get enough credits (~4000) to buy all of the cars.
 
 ## Technical notes
 
