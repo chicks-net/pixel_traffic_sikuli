@@ -1,4 +1,8 @@
-# pixel_traffic_sikuli
+# Pixel Traffic Sikuli
+
+[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![GPLv2 license](https://img.shields.io/badge/License-GPLv2-blue.svg)](https://github.com/chicks-net/pixel_traffic_sikuli/blob/master/LICENSE)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/chicks-net/pixel_traffic_sikuli/graphs/commit-activity)
 
 Automate starting over in
 [Pixel Traffic: Circle Rush](http://store.steampowered.com/app/696460/Pixel_Traffic_Circle_Rush/)
@@ -18,7 +22,7 @@ with [Sikuli](http://www.sikuli.org/).
 
 ## Scripts
 
-* [pixel_traffic_autostart](https://rawgit.com/chicks-net/pixel_traffic_sikuli/master/pixel_traffic_autostart.sikuli/pixel_traffic_autostart.html) - 1200 runs so you can get enough credits (~4000) to buy all of the cars.
+* [pixel_traffic_autostart](https://chicks-net.github.io/pixel_traffic_sikuli/pixel_traffic_autostart.sikuli/pixel_traffic_autostart.html) - 1200 runs so you can get enough credits (~4000) to buy all of the cars.
 
 ## Technical notes
 
