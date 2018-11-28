@@ -14,7 +14,7 @@ with [Sikuli](http://www.sikuli.org/).
 * install [SikuliX](http://sikulix.com/quickstart/)
 * run Pixel Traffic in a Window at 1024x768
 * start SikuliX 
-* open the [autostart script](https://rawgit.com/chicks-net/pixel_traffic_sikuli/master/pixel_traffic_autostart.sikuli/pixel_traffic_autostart.html)
+* open the [autostart script](https://chicks-net.github.io/pixel_traffic_sikuli/pixel_traffic_autostart.sikuli/pixel_traffic_autostart.html)
 * click Play/Run icon in SikuliX
 * wait for hours
 * profit
