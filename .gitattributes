@@ -1,5 +1,5 @@
 # treat HTML as docs so it doesn't total more than the actual source code in the repo
 *.html  linguist-documentation
 
-# treat "just" as docs so it doesn't total more than the source code in the repo
-/.just/*  linguist-vendored linguist-documentation
+# treat "just" as vendored so it doesn't total more than the source code in the repo
+/.just/*  linguist-vendored 
