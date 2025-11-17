@@ -2,4 +2,4 @@
 *.html  linguist-documentation
 
 # treat "just" as vendored so it doesn't total more than the source code in the repo
-/.just/*  linguist-vendored 
+*.just  linguist-vendored 
