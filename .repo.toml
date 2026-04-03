@@ -1,0 +1,15 @@
+# .repo.toml
+
+[about]
+description = "Automate starting over in Pixel Traffic: Circle Rush"
+topics = ["circle-rush", "sikuli", "sikulix"]
+
+[urls]
+git_ssh = "git@github.com:chicks-net/pixel_traffic_sikuli.git"
+web_url = "https://github.com/chicks-net/pixel_traffic_sikuli"
+
+[flags]
+claude = false
+claude-review = false
+copilot-review = false
+standard-release = true
