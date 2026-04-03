@@ -9,7 +9,7 @@ git_ssh = "git@github.com:chicks-net/pixel_traffic_sikuli.git"
 web_url = "https://github.com/chicks-net/pixel_traffic_sikuli"
 
 [flags]
-claude = true
-claude-review = true
+claude = false
+claude-review = false
 copilot-review = true
 standard-release = true
